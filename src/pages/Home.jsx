@@ -46,7 +46,7 @@ function Home() {
             description: 'Angsana Teluk Bahang, Penang, part of Banyan Group is the first Angsana brand in Malaysia. An independent, global hospitality company with purpose. The vibrant resort located on idyllic Teluk Bahang beach, open on 10 October 2020. The resort offers 231 unobstructed sea view rooms and suites with contemporary Peranakan-inspired interior designs, complete with modern amenities and colorful tapestries by internationally acclaimed designer Omar Khan. The resort is located just a stone throw away from some of the top attractions in Penang such as Tropical Spice Garden, Penang Batik Factory, Entopia by Penang Butterfly Farm, ESCAPE theme park Penang, Penang National Park, Monkey Beach and more.',
         },
         {
-            image: '/Assg2/src/assets/penanghill.jpeg',
+            image: penanghillImage,
             title: 'Bayview Beach Resort',
             description: 'At Bayview Beach Resort Penang, a tropical garden filled with slender palms is all that separates you from the long stretch of enticing white sand at Batu Ferringhi beach. Painted fishing boats ply the waters of the Straits of Malacca as they have done for centuries, creating a scenic backdrop for your Penang holiday. Adventurous guests can try parasailing and jet-skiing at our Watersports Centre, while the garden massage hut offers a romantic option for honeymooning couples.',
         },
